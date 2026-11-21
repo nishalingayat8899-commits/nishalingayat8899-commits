@@ -12,12 +12,12 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nishalingayat8899&label=PROFILE+VIEWS&color=EF93C4&style=for-the-badge" />
-<a href="https://github.com/Nishalingayat8899?tab=followers">
-<img src="https://img.shields.io/github/followers/Nishalingayat8899?label=Followers&style=for-the-badge&color=F8BBD0" />
+<img src="https://komarev.com/ghpvc/?username=Nishalingayat8899-commits&label=PROFILE+VIEWS&color=EF93C4&style=for-the-badge" />
+<a href="https://github.com/Nishalingayat8899-commits?tab=followers">
+<img src="https://img.shields.io/github/followers/Nishalingayat8899-commits?label=Followers&style=for-the-badge&color=F8BBD0" />
 </a>
-<a href="https://github.com/Nishalingayat8899?tab=repositories">
-<img src="https://img.shields.io/github/stars/Nishalingayat8899?label=Stars&style=for-the-badge&color=FF69B4" />
+<a href="https://github.com/Nishalingayat8899-commits?tab=repositories">
+<img src="https://img.shields.io/github/stars/Nishalingayat8899-commits?label=Stars&style=for-the-badge&color=FF69B4" />
 </a>
 
 </div>
@@ -76,8 +76,8 @@
 
 <div align="center">a
 
-<a href="https://github.com/Nishalingayat8899">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishalingayat8899&repo=EasyCRUD-Updated&theme=rose_pine&border_color=EF93C4" />
+<a href="https://github.com/Nishalingayat8899-commits">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishalingayat8899-commits&repo=EasyCRUD-Updated&theme=rose_pine&border_color=EF93C4" />
 </a>
 
 </div>
@@ -92,13 +92,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishalingayat8899-commits ·&show_icons=true&theme=rose_pine&border_color=EF93C4&title_color=EF93C4&icon_color=FF69B4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nishalingayat8899-commits&show_icons=true&theme=rose_pine&border_color=EF93C4&title_color=EF93C4&icon_color=FF69B4" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishalingayat8899&layout=compact&theme=rose_pine&border_color=EF93C4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishalingayat8899-commits&layout=compact&theme=rose_pine&border_color=EF93C4" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Nishalingayat8899&theme=rose-pine&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Nishalingayat8899-commits&theme=rose-pine&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4" />
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishalingayat8899-commits ·&bg_color=1a1020&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nishalingayat8899-commits&bg_color=1a1020&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" />
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nishalingayat8899-commits/nishalingayat8899-commits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Nishalingayat8899-commits/Nishalingayat8899-commits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
